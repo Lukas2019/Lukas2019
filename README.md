@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my GitHub! 👋
+Hi, I'm Lukas, a developer passionate about changing the way we consume. I love learning, building and sharing projects that solve real-world problems.
+
+- 🔭 I'm currently working on the app "Umsonst".
+- 🌱 I'm currently learning Flutter and Django
 
 <!--
 **Lukas2019/Lukas2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
